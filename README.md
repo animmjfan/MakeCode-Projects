@@ -16,5 +16,6 @@ git branch
 ```
 git checkout OTHER_BRANCH
 ```
+<p></p>
 
 > This repo is for school but if you want you can use the code
