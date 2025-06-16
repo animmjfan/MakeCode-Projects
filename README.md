@@ -1,5 +1,5 @@
-
-> Open this page at [https://animmjfan.github.io/simple-microbit-calc-code-for-school/](https://animmjfan.github.io/simple-microbit-calc-code-for-school/)
+> due to complications with branches you need to compile the binary and import the file (guide in progress for the current time the compiled binary is included in releases)
+## Compiling
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/animmjfan/simple-microbit-calc-code-for-school** and import
+* click import file an
 
 ## Edit this project
 
