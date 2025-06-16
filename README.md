@@ -1,6 +1,7 @@
 > due to complications with branches you need to compile the binary and import the file (guide in progress for the current time the compiled binary is included in releases)
-## Compiling
 
+> [!CAUTION]
+> DO NOT FOLLOW THE CURRENT GUIDE AT THIS TIME!!
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
