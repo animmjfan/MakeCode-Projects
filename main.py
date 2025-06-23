@@ -94,7 +94,7 @@ def on_forever():
         # handle restarting on any key
         
         def on_button_pressed_a4():
-            global menu, num2, num
+            global menu, num, num2
             menu = 1
             num = 0
             num2 = 0
@@ -102,7 +102,7 @@ def on_forever():
         
         
         def on_button_pressed_b4():
-            global menu, num2, num
+            global menu, num, num2
             menu = 1
             num = 0
             num2 = 0
@@ -110,7 +110,7 @@ def on_forever():
         
         
         def on_button_pressed_ab():
-            global menu, num2, num
+            global menu, num, num2
             menu = 1
             num = 0
             num2 = 0
@@ -118,7 +118,7 @@ def on_forever():
         
         
         def on_pin_pressed_p04():
-            global menu, num2, num
+            global menu, num, num2
             menu = 1
             num = 0
             num2 = 0
@@ -126,7 +126,7 @@ def on_forever():
         
         
         def on_pin_pressed_p12():
-            global menu, num2, num
+            global menu, num, num2
             menu = 1
             num = 0
             num2 = 0
@@ -134,7 +134,7 @@ def on_forever():
         
         
         def on_pin_pressed_p22():
-            global menu, num2, num
+            global menu, num, num2
             menu = 1
             num = 0
             num2 = 0
