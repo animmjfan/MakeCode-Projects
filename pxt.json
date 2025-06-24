@@ -9,11 +9,7 @@
     },
     "files": [
         "main.ts",
-        "README.md",
-        "main.py"
-    ],
-    "testFiles": [
-        "test.ts"
+        "README.md"
     ],
     "targetVersions": {
         "target": "7.0.61",
