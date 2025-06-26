@@ -1,7 +1,7 @@
 let count = 0;
 let botChoice;
 let leaveRpsMenu = 0;
-basic.forever(function() {
+basic.forever(function on_forever() {
 	basic.clearScreen();
 	basic.showString("G");
 	while (true) {
