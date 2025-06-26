@@ -1,25 +1,3 @@
-> due to complications with branches you need to compile the binary and import the file (guide in progress for the current time the compiled binary is included in releases)
+# simple-calc
 
-> [!CAUTION]
-> DO NOT FOLLOW THE CURRENT GUIDE AT THIS TIME!!
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* click import file an
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/animmjfan/simple-microbit-calc-code-for-school** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+A simple calculator for micro:bit for addition, subtraction, multiplication and division! 
