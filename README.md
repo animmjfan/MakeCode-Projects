@@ -13,8 +13,8 @@ To use this repos please click the branches tab and each branch stores it's own 
 **Step 3:** Click the branch you want to checkout!  
 **Step 4:** profit
 
-## How to move between branches in git (only for contributers or those who are advanced)
-*Moving between branches in git is a basic skill but in case you don't know or are too used to github's interface here is how*
+## How to move between branches in git (for compiling projects and using them)
+*Moving between branches in git is a basic skill but in case you don't know or are used to github's interface here is how*
 
 **List branches:**
 ```
